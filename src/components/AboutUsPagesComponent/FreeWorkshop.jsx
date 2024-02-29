@@ -2,7 +2,7 @@ import React from "react";
 import "./FreeWorkShop.css";
 import videoBackground from "../../assets/video-popup-bg-02-2.jpg";
 import { FaPlay } from "react-icons/fa";
-import "../HomeComponents/WhyChooseUs.css";
+import "../HomeComponents/whyChooseUs.css";
 import square from "../../assets/shape-04-05-2.png";
 import wave from "../../assets/shape-13-02-2.png";
 import { AiOutlineArrowRight } from "react-icons/ai";
